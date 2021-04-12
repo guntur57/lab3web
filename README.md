@@ -5,3 +5,5 @@ PROSES MEMBUAT MENU LIST, LOGIN DAN TABEL
 #
 menggunakan aplikasi sublime 3
 #
+sedikit ada modifikasi warna pada tampilan login, garis table nama dan alamat.
+serta ukuran pada table
